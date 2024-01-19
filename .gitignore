@@ -1,0 +1,6 @@
+# Files
+*.sln
+
+# Folders
+**/Debug
+**/Release
