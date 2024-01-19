@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/orlandofloresti/DotNetProjects/dotnet-backend/fundamentals/fundamentals.csproj": {}
+    "/home/orlandofloresti/DotNetProjects/dotnet-backend/001-fundamentals/fundamentals.csproj": {}
   },
   "projects": {
-    "/home/orlandofloresti/DotNetProjects/dotnet-backend/fundamentals/fundamentals.csproj": {
+    "/home/orlandofloresti/DotNetProjects/dotnet-backend/001-fundamentals/fundamentals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/orlandofloresti/DotNetProjects/dotnet-backend/fundamentals/fundamentals.csproj",
+        "projectUniqueName": "/home/orlandofloresti/DotNetProjects/dotnet-backend/001-fundamentals/fundamentals.csproj",
         "projectName": "fundamentals",
-        "projectPath": "/home/orlandofloresti/DotNetProjects/dotnet-backend/fundamentals/fundamentals.csproj",
+        "projectPath": "/home/orlandofloresti/DotNetProjects/dotnet-backend/001-fundamentals/fundamentals.csproj",
         "packagesPath": "/home/orlandofloresti/.nuget/packages/",
-        "outputPath": "/home/orlandofloresti/DotNetProjects/dotnet-backend/fundamentals/obj/",
+        "outputPath": "/home/orlandofloresti/DotNetProjects/dotnet-backend/001-fundamentals/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/orlandofloresti/.nuget/NuGet/NuGet.Config"

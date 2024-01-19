@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7eKzB+rC24+gSrc6O2wn/uh0BTmUvLpiMOTG/WZCfNiuuMSGei99EFu7rPOH2jq5RPTY0dHh/uIo0VjdIKHZSQ==",
+  "dgSpecHash": "NHHCOLiCbZUKakVy+4Oa+OUC8jX/inxzMRc4JkJPqWFfz3C8r9YuyTdYfDv2PMb26gHmn4bIBHiLWsh9TgKphQ==",
   "success": true,
-  "projectFilePath": "/home/orlandofloresti/DotNetProjects/dotnet-backend/fundamentals/fundamentals.csproj",
+  "projectFilePath": "/home/orlandofloresti/DotNetProjects/dotnet-backend/001-fundamentals/fundamentals.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
